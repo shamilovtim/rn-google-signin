@@ -50,13 +50,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/react-native-google-signin/google-signin",
-  "author": "Vojtech Novak <vonovak@gmail.com> (https://github.com/vonovak)",
+  "repository": "https://github.com/shamilovtim/rn-google-signin",
+  "author": "Tim Shmailov <shamilovtim@gmail.com> (https://github.com/shamilovtim)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-google-signin/google-signin/issues"
+    "url": "https://github.com/shamilovtim/rn-google-signin/issues"
   },
-  "homepage": "https://github.com/react-native-google-signin/google-signin#readme",
+  "homepage": "https://github.com/shamilovtim/rn-google-signin#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
